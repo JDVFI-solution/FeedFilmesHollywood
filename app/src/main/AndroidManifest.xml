@@ -11,8 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".telas.MoviesDetailActivity"></activity>
-        <activity android:name=".telas.MoviesActivity">
+        <activity android:name=".telas.MoviesActivity"></activity>
+        <activity android:name=".telas.MoviesDetailActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
